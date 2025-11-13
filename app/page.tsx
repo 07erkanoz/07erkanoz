@@ -583,7 +583,7 @@ export default function Home() {
                     <div className="bg-slate-900 p-4 rounded-lg border border-slate-700">
                       <p className="text-slate-300 text-sm mb-3 font-semibold">HTML Kodu:</p>
                       <pre className="text-slate-200 text-xs overflow-x-auto whitespace-pre-wrap break-words">
-                        {`<iframe src="https://kolay-faiz-hesaplama.vercel.app" width="100%" height="800" frameborder="0" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"></iframe>`}
+                        {`<iframe src="https://erkanoz-faizhesapla.vercel.app" width="100%" height="800" frameborder="0" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"></iframe>`}
                       </pre>
                     </div>
 
